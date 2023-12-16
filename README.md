@@ -2,7 +2,7 @@
 
 ## Description
 
-Competition: https://www.kaggle.com/code/bolouki/predict-co2-emissions-ps-s03e20
+Competition: https://www.kaggle.com/competitions/playground-series-s3e20
 
 
 ## Log
@@ -23,8 +23,8 @@ model3(XGBoost), rmse =80.73130345467878
 
 version 1 : PCA(主成分分析)
 
+```shell
 model1(DecisionTree), rmse =113.97760241373803
 model2(Random Forest), rmse =84.91892483122726
 model3(XGBoost), rmse =90.1006751045587
-额额额
-误差反而增大了?
+```
